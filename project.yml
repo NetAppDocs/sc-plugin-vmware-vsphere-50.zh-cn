@@ -22,7 +22,7 @@ settings:
     url: "/sc-plugin-vmware-vsphere-46"
   - version-number: '4.5'
     url: "/sc-plugin-vmware-vsphere-45"
-  langs: zh-cn,us-en,ja-jp,ko-kr,zh-tw,de-de,es-es,fr-fr,it-it
+  langs: zh-cn,us-en,de-de,es-es,fr-fr,it-it,pt-br,ja-jp,ko-kr,zh-tw
 sidebar:
   entries:
   - title: 适用于VMware vSphere 5.0的SnapCenter插件文档
