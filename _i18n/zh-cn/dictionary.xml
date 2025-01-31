@@ -2051,7 +2051,6 @@
   <block id="5a2083853297d8e177a0fe4d54c85aad" category="paragraph">此任务可帮助您更改默认审核日志设置。</block>
   <block id="bf59ac9161d0f4561a155103d8ea2d10" category="list-text">在*Audit Log Settings*(审核日志设置*)窗格中，输入审核日志文件的最大数量和审核日志文件大小限制。</block>
   <block id="f1505fcf11606ca7535d26bceed3763b" category="sidebar">适用于 VMware vSphere 的 SnapCenter 插件（ SCV ）是一种基于 Linux 的虚拟设备。作为独立的，它可以为 VM ，数据存储库和 VMDK 提供快速，节省空间，崩溃状态一致且 VM 一致的备份和还原操作。此外，它还可以与 SnapCenter 服务器配合使用，为 SnapCenter 应用程序专用插件在 VMware 环境中执行基于应用程序的备份和还原操作提供支持。本文档库介绍了适用于VMware vSphere 5.0的SnapCenter插件。</block>
-  <block id="8c3d0c00ea667e3e0723e5cdc6473a09" category="sidebar">适用于 VMware vSphere 的 SnapCenter 插件文档</block>
   <block id="35b654fd14f12a33551c1993b5321fcb" category="sidebar">适用于 VMware vSphere 的 SnapCenter 插件（ SCV ）是一种基于 Linux 的虚拟设备。作为独立的，它可以为 VM ，数据存储库和 VMDK 提供快速，节省空间，崩溃状态一致且 VM 一致的备份和还原操作。此外，它还可以与 SnapCenter 服务器配合使用，为 SnapCenter 应用程序专用插件在 VMware 环境中执行基于应用程序的备份和还原操作提供支持。</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">开始使用</block>
   <block id="5dd03e8d039863e563e049be198c3fd3" category="sidebar">发行说明</block>
@@ -2096,4 +2095,5 @@
   <block id="a3d53cfe9124531cb5f9bbfefe704326" category="sidebar">用于修改内置计划的 REST API 工作流</block>
   <block id="3da6944b1baaec4beb70694ac307fd1f" category="sidebar">升级到同一版本的新修补程序</block>
   <block id="b02541bab3f320c7517f41f638f6ef31" category="paragraph"><block ref="6f48ea8f284b5f5f2ad46612a3e37eec" category="inline-link-macro-rx"></block>(英文)</block>
+  <block id="e2baf69e920d271345d54408c922dc4e" category="sidebar">适用于VMware vSphere 5.0的SnapCenter插件文档</block>
 </blocks>
